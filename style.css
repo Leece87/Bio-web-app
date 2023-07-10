@@ -42,4 +42,6 @@ p{
   margin: 10px;
   box-shadow: 5px 5px white;
   text-decoration: none;
+  font-size: small;
+  font-weight: bold;
 }
